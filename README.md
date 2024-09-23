@@ -67,9 +67,9 @@ Abra seu gerenciador de arquivos no local onde o repositório foi baixado e abra
 
 ## Tech Stack  
 
-**Client:** Flask, Python
+**Client:** Html, Css, Js
 
-**Server:** SQLAlchemy
+**Server:** JavaScript
 
 ## Autora
 
