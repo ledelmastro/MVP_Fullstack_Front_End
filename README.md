@@ -3,8 +3,8 @@
 # ☑️ Sumário 
 1. [Introdução](#introduction)  
 2. [Screenshots](#Screenshots) 🖥️
-3. [Instalação 😊🚀 ](#paragraph1)
-4. [Deployment - Implantação 😊🚀](#paragraph2)
+3. [Visualização do Projeto 😊🚀 ](#paragraph1)
+4. [Visualização através do Gerenciador de Arquivos 😊🚀 ](#paragraph1)
 5. [Referência da API ](#paragraph3) 📦 
     
     5.1. [Exemplos de Métodos HTTP - Referência da API](#subparagraph3) 📬
@@ -20,7 +20,7 @@ Projeto Final de desenvolvimento de uma API Backend (Python + Flask) para o Curs
 
 ![App Screenshot](https://github.com/ledelmastro/MVP_Fullstack_Back_End/blob/main/Screenshot1.png?raw=true)
 
-## Instalação
+## Visualização do Projeto 😊🚀
 
 ☑️ 1. Clone o projeto  ↪️
 ~~~ bash  
