@@ -4,7 +4,7 @@
 1. [Introdução](#introduction)  
 2. [Screenshots](#Screenshots) 🖥️
 3. [Visualização do Projeto 😊🚀 ](#paragraph1)
-4. [Visualização através do Gerenciador de Arquivos 😊🚀 ](#paragraph1)
+4. [Visualização através do Gerenciador de Arquivos 😊🚀 ](#paragraph2)
 5. [Referência da API ](#paragraph3) 📦 
     
     5.1. [Exemplos de Métodos HTTP - Referência da API](#subparagraph3) 📬
