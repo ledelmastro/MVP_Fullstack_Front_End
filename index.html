@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercado Vegetariano</title> <!-- Define o título da página que aparece na aba do navegador -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header> <!-- Seção de cabeçalho com links de navegação -->
+        <h1>Mercado Vegetariano</h1> <!-- Título principal da página -->
+    </header>
+    <!--fonte: https://www.pexels.com/pt-br/video/aperitivo-lanche-petisco-tigela-4444395/ -->
+    <div class="video-wrapper"></div>
+    <video playsinline autoplay muted loop poster="bg.jpg">
+        <source src="pratovegetariano.mp4" type="video/webm">
+        Seu navegador não suporta a reprodução de vídeo.
+    </video>
+
+    <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-favicon-pastel_glyph-16.png">
+    <!-- Caixa de seleção de produtos -->
+    <div class="container">
+        <h2>Escolha um produto vegano:</h2>
+        <ul id="productList">
+        </ul>
+        <select id="product-select">
+            <option value="" disabled selected>Selecione um produto</option>
+            <option value="1">Hamburguer Vegano - R$ 18,99</option>
+            <option value="2">Salada de Quinoa - R$ 17,50</option>
+            <option value="3">Tacos Veganos - R$ 9,99</option>
+            <option value="4">Snack de Grão de Bico - R$ 10,50</option>
+            <option value="5">Pizza Vegana - R$ 11,99</option>
+        </select>
+    </div>
+    <div class="container2">
+        <h3>Produtos Selecionados</h3>
+        <div class="selected-products" id="selected-products" type="text">
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
