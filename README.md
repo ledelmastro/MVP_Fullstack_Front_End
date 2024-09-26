@@ -7,7 +7,7 @@
 <h1 align="center">🟨	 Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
 
 <p align="center">
-  <a href="#memo-Sobre o Projeto">Sobre o Projeto</a> &#xa0; | &#xa0; 
+  <a href="#memo-Sobre-o-Projeto">Sobre o Projeto</a> &#xa0; | &#xa0; 
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-Iniciando">Iniciando</a> &#xa0; | &#xa0;
@@ -43,7 +43,7 @@ Caso queira rodar este projeto através de um servidor local é recomendado que 
 $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End 
 ~~~
 
-☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
+☑️ 2. No diretório local abra o arquivo index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
 
 <img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/index_img.jpg?raw=true" />
 
