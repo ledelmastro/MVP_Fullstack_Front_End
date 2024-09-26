@@ -24,7 +24,7 @@ Projeto Final para o desenvolvimento de uma Single Page Application utilizando H
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 - [HTML5](https://html.spec.whatwg.org/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -39,25 +39,28 @@ Caso queira rodar este projeto através de um servidor local é recomendado que 
 
 ## :checkered_flag: Iniciando ##
 
-```bash
-# ☑️ 1. Clone este projeto para um diretório local ↪️
-$ git clone https://github.com/{{ledelmastro}}/MVP_Fullstack_Front_End
 
-# ☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
+☑️ 1. Clone este projeto para um diretório local ↪️
+~~~bash   
+$ git clone https://github.com/{{ledelmastro}}/MVP_Fullstack_Front_End 
+~~~
 
-<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/Index_img.png?raw=true" />
+☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
 
-# ☑️ 3. Se preferir visualizar no VsCode, abra o diretório local da aplicação ↪️
+<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/index_img.png?raw=true" />
 
+☑️ 3. Se preferir visualizar no VsCode, abra o diretório local da aplicação ↪️
+~~~bash  
   CTRL+K+O -> escolha o diretório onde o projeto foi clonado 
 
 # ou utilize os atalhos para visualização local:
 
   Clique com botão direito e escolha a opção -> Open Preview
   Clique com botão direito e escolha a opção -> Show in Browser
+  ~~~
 
-# Caso queira utilizar a aplicação em um servidor local, após instalar o NodeJS, instale as dependências para o projeto ↪️
-
+☑️ 4. Caso queira utilizar a aplicação em um servidor local, após instalar o NodeJS, instale as dependências para o projeto ↪️
+~~~bash  
 $ npm install -g http-server
 
 # Inicializando servidor na porta 5000 ↪️
@@ -65,7 +68,7 @@ $ npm install -g http-server
 $ http-server -p 5000
 
 # Acesse <http://localhost:5000>
-```
+~~~
 
 ## Autor(@) ##
 
