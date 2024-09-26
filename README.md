@@ -51,7 +51,7 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
 ~~~bash  
   CTRL+K+O -> escolha o diretório onde o projeto foi clonado 
 
-# ou utilize os atalhos para visualização local:
+# ou utilize atalhos para visualização local:
 
   Clique com botão direito e escolha a opção -> Open Preview
   Clique com botão direito e escolha a opção -> Show in Browser
@@ -60,13 +60,15 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
 ☑️ 4. Caso queira utilizar a aplicação em um servidor local, após instalar o NodeJS, instale as dependências para o projeto ↪️
 ~~~bash  
 $ npm install -g http-server
-
-# Inicializando servidor na porta 5000 ↪️
-
-$ http-server -p 5000
-
-# Acesse <http://localhost:5000>
 ~~~
+Inicializando servidor na porta 5000 ↪️
+~~~bash  
+$ http-server -p 5000
+~~~
+Acesse ↪️
+~~~bash  
+http://localhost:5000
+~~~ 
 
 ## Autor(@) ##
 
