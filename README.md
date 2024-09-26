@@ -9,7 +9,7 @@
 <h1 align="center">🟨	 Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
 
 <p align="center">
-  <a href="#dart-sobre">Sobre o projeto</a> &#xa0; | &#xa0; 
+  <a href="#🟨Sobre o projeto">Sobre o projeto</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Iniciando a aplicação</a> &#xa0; | &#xa0;
@@ -17,7 +17,7 @@
 </p>
 
 
-## 🟨 Sobre o Projeto ##
+## Sobre o Projeto 🟨 ##
 
 🔸 MVP_Fullstack
 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
