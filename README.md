@@ -2,8 +2,6 @@
   <img src="./.github/app.gif" alt="MVP_Fullstack_Front_End" />
 
   &#xa0;
-
-  <!-- <a href="https://mvp_fullstack_front_end.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">🟨	 Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
@@ -17,7 +15,7 @@
 </p>
 
 
-##  :memo: Sobre o Projeto ##
+## :memo: Sobre o Projeto ##
 
 🔸 MVP_Fullstack
 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
@@ -47,7 +45,7 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
 
 ☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
 
-<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/index-img.jpg?raw=true" />
+<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/index_img.jpg?raw=true" />
 
 ☑️ 3. Se preferir visualizar no VsCode, abra o diretório local da aplicação ↪️
 ~~~bash  
