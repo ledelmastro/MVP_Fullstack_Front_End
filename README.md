@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <video width="100%" controls>
-    <source src="https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Demo_Front_End" />
-
-  &#xa0;
-</div>
-
 <h1 align="center">🟨	Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
 
 <p align="center">
@@ -73,6 +66,13 @@ http://localhost:5000
 ~~~ 
 
 ## :dragon_face: Live Demo ##
+
+<div align="center" id="video"> 
+  <video width="100%" controls>
+    <source src= "https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Demo_Front_End"type="video/mp4">
+
+  &#xa0;
+</div>
 
 [![Video Demo](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
