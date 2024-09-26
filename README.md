@@ -6,7 +6,6 @@
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-Iniciando">Iniciando</a> &#xa0; | &#xa0;
   <a href="#dragon_face-Live-Demo">Live Demo</a> &#xa0; | &#xa0;
-  <a href="#Autor(@)">Iniciando</a> &#xa0; | &#xa0;
   <a href="https://github.com/ledelmastro" target="_blank">Autor@</a>
 </p>
 
