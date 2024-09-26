@@ -1,24 +1,26 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="MVP_Fullstack_Front_End" />
+  <video width="100%" controls>
+    <source src="https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Demo_Front_End" />
 
   &#xa0;
 </div>
 
-<h1 align="center">🟨	 Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
+<h1 align="center">🟨	Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
 
 <p align="center">
   <a href="#memo-Sobre-o-Projeto">Sobre o Projeto</a> &#xa0; | &#xa0; 
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-Iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#dragon_face-Live-Demo">Live Demo</a> &#xa0; | &#xa0;
+  <a href="#Autor(@)">Iniciando</a> &#xa0; | &#xa0;
   <a href="https://github.com/ledelmastro" target="_blank">Autor@</a>
 </p>
 
 
 ## :memo: Sobre o Projeto ##
 
-🔸 MVP_Fullstack
-Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
+🔸 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
 
 ## :rocket: Tecnologias ##
 
@@ -69,6 +71,11 @@ Acesse ↪️
 ~~~bash  
 http://localhost:5000
 ~~~ 
+
+## :dragon_face: Live Demo ##
+
+[![Video Demo](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## Autor(@) ##
 
