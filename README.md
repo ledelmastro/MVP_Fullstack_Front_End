@@ -47,7 +47,7 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
 
 ☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
 
-<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/index_img.png?raw=true" />
+<img alt="Index Tutorial" src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/index-img.png?raw=true" />
 
 ☑️ 3. Se preferir visualizar no VsCode, abra o diretório local da aplicação ↪️
 ~~~bash  
