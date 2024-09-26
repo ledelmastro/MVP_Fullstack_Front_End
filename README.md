@@ -70,9 +70,9 @@ http://localhost:5000
 
 <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
 
-## Autor(@) ##
+## Autor(@) ##~
 
-Feito com :heart: por <a href="https://github.com/ledelmastro" target="_blank">Elena Assis da Silva Del Mastro </a>
+<link rel="icon" href="https://img.icons8.com/?size=100&id=tYEgcGrgh5pV&format=png&color=000000" type="image/x-icon">Feito com :heart: por <a href="https://github.com/ledelmastro" target="_blank">Elena Assis da Silva Del Mastro </a>
 &#xa0;
 
 <a href="#top">Back to top</a>
