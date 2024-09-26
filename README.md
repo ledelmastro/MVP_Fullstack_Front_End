@@ -27,8 +27,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 Para utilizar este projeto basta abrir o arquivo Index.html em seu navegador web para ter acesso a aplicação. 🏁
 Para isto, é recomendado que baixe ou clone os arquivos deste repostório [Git](https://github.com/ledelmastro/MVP_Fullstack_Front_End/).
 
-Caso queira rodar este projeto através de um servidor local é recomendado que instale o [NodeJS](https://nodejs.org/en/).
-
 ## :checkered_flag: Iniciando ##
 
 
@@ -50,19 +48,6 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
   Clique com botão direito e escolha a opção -> Open Preview
   Clique com botão direito e escolha a opção -> Show in Browser
   ~~~
-
-☑️ 4. Caso queira utilizar a aplicação em um servidor local, após instalar o NodeJS, instale as dependências para o projeto ↪️
-~~~bash  
-$ npm install -g http-server
-~~~
-Inicialize o servidor na porta 5000 ↪️
-~~~bash  
-$ http-server -p 5000
-~~~
-Acesse ↪️
-~~~bash  
-http://localhost:5000
-~~~ 
 
 ## :dragon_face: Live Demo ##
 
