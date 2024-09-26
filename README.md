@@ -12,7 +12,7 @@
   <a href="#memo-Sobre o projeto">Sobre o projeto</a> &#xa0; | &#xa0; 
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_Iniciando a aplicação">Iniciando a aplicação</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-Iniciando a aplicação">Iniciando a aplicação</a> &#xa0; | &#xa0;
   <a href="https://github.com/ledelmastro" target="_blank">Autor@</a>
 </p>
 
