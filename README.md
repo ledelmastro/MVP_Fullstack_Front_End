@@ -61,7 +61,7 @@ $ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End
 ~~~bash  
 $ npm install -g http-server
 ~~~
-Inicializando servidor na porta 5000 ↪️
+Inicialize o servidor na porta 5000 ↪️
 ~~~bash  
 $ http-server -p 5000
 ~~~
