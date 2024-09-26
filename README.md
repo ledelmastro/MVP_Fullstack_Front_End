@@ -74,7 +74,9 @@ http://localhost:5000
   &#xa0;
 </div>
 
-[![Video Demo](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![Video Demo](https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/live_demo.mp4)]
+
+<video controls src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/live_demo.mp4" title="video_demo"></video>
 
 
 ## Autor(@) ##
