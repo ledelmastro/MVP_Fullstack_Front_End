@@ -9,15 +9,15 @@
 <h1 align="center">🟨	 Projeto Final para Curso Pós Graduação em Desenvolvimento Full Stack - Front_End 🚀 </h1>
 
 <p align="center">
-  <a href="#🟨Sobre o projeto">Sobre o projeto</a> &#xa0; | &#xa0; 
+  <a href="#memo-Sobre o projeto">Sobre o projeto</a> &#xa0; | &#xa0; 
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_Iniciando">Iniciando a aplicação</a> &#xa0; | &#xa0;
+  <a href="#checkered_Iniciando a aplicação">Iniciando a aplicação</a> &#xa0; | &#xa0;
   <a href="https://github.com/ledelmastro" target="_blank">Autor@</a>
 </p>
 
 
-## Sobre o Projeto 🟨 ##
+##  :memo: Sobre o Projeto ##
 
 🔸 MVP_Fullstack
 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
@@ -67,7 +67,7 @@ $ http-server -p 5000
 # Acesse <http://localhost:5000>
 ```
 
-## :memo: Autor(@) ##
+## Autor(@) ##
 
 Feito com :heart: por <a href="https://github.com/{{ledelmastro}}" target="_blank">Elena Assis da Silva Del Mastro </a>
 &#xa0;
