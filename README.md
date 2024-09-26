@@ -42,7 +42,7 @@ Caso queira rodar este projeto através de um servidor local é recomendado que 
 
 ☑️ 1. Clone este projeto para um diretório local ↪️
 ~~~bash   
-$ git clone https://github.com/{{ledelmastro}}/MVP_Fullstack_Front_End 
+$ git clone https://github.com/ledelmastro/MVP_Fullstack_Front_End 
 ~~~
 
 ☑️ 2. No diretório local abra o arquivo Index.html em seu Browser de preferência (Chrome, Edge, Firefox, Opera, etc) ↪️
@@ -72,10 +72,7 @@ $ http-server -p 5000
 
 ## Autor(@) ##
 
-Feito com :heart: por <a href="https://github.com/{{ledelmastro}}" target="_blank">Elena Assis da Silva Del Mastro </a>
+Feito com :heart: por <a href="https://github.com/ledelmastro" target="_blank">Elena Assis da Silva Del Mastro </a>
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-
-[def]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
