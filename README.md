@@ -68,6 +68,8 @@ http://localhost:5000
 
 <a href="https://www.canva.com/design/DAGR5Z5hoLw/OkOuUdx_iU6S1e9yeOG0aw/watch?utm_content=DAGR5Z5hoLw&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">Live Demo Vídeo</a>
 
+<a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
+
 ## Autor(@) ##
 
 Feito com :heart: por <a href="https://github.com/ledelmastro" target="_blank">Elena Assis da Silva Del Mastro </a>
