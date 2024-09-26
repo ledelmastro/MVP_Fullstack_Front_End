@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#🟨Sobre o projeto">Sobre o projeto</a> &#xa0; | &#xa0; 
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Iniciando a aplicação</a> &#xa0; | &#xa0;
+  <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-Requerimentos">Requerimentos</a> &#xa0; | &#xa0;
+  <a href="#checkered_Iniciando">Iniciando a aplicação</a> &#xa0; | &#xa0;
   <a href="https://github.com/ledelmastro" target="_blank">Autor@</a>
 </p>
 
