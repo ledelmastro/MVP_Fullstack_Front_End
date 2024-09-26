@@ -12,7 +12,7 @@
 
 ## :memo: Sobre o Projeto ##
 
-🔸 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimneto Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
+🔸 Projeto Final para o desenvolvimento de uma Single Page Application utilizando HTML5, CSS e Javascript. Este projeto minimum viable product (MVP) foi desenvolvido como parte da conclusão da Sprint: Desenvolvimento Full Stack Básico do Curso de Pós graduação em Desenvolvimento Full Stack - PUC RJ.
 
 ## :rocket: Tecnologias ##
 
