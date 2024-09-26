@@ -69,15 +69,8 @@ http://localhost:5000
 
 <div align="center" id="video"> 
   <video width="100%" controls>
-    <source src= "https://www.canva.com/design/DAGR5JXlqNE/N0aLlqvs9G5gCsq1Q9A_9g/watch?utm_content=DAGR5JXlqNE&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Demo_Front_End"type="video/mp4">
-
-  &#xa0;
+    <source src= "https://www.canva.com/design/DAGR5Z5hoLw/OkOuUdx_iU6S1e9yeOG0aw/watch?utm_content=DAGR5Z5hoLw&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Demo_Front_End"type="video/mp4">
 </div>
-
-[![Video Demo](https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/live_demo.mp4)]
-
-<video controls src="https://github.com/ledelmastro/MVP_Fullstack_Front_End/blob/main/live_demo.mp4" title="video_demo"></video>
-
 
 ## Autor(@) ##
 
