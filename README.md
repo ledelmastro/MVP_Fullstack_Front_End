@@ -68,7 +68,7 @@ http://localhost:5000
 
 <a href="https://www.canva.com/design/DAGR5Z5hoLw/OkOuUdx_iU6S1e9yeOG0aw/watch?utm_content=DAGR5Z5hoLw&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">Live Demo Vídeo</a>
 
-## <img width="20" height="20" src="https://img.icons8.com/external-itim2101-gradient-itim2101/64/external-writer-life-style-avatar-itim2101-gradient-itim2101.png" alt="external-writer-life-style-avatar-itim2101-gradient-itim2101"/> Autor(@) ##
+## <img width="23" height="23" src="https://img.icons8.com/external-itim2101-gradient-itim2101/64/external-writer-life-style-avatar-itim2101-gradient-itim2101.png" alt="external-writer-life-style-avatar-itim2101-gradient-itim2101"/> Autor(@) ##
 
 
 
