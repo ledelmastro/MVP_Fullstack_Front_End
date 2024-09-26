@@ -66,7 +66,7 @@ http://localhost:5000
 
 ## :dragon_face: Live Demo ##
 
-[[Live Video Demo](https://www.canva.com/design/DAGR5Z5hoLw/OkOuUdx_iU6S1e9yeOG0aw/watch?utm_content=DAGR5Z5hoLw&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+<a href="https://www.canva.com/design/DAGR5Z5hoLw/OkOuUdx_iU6S1e9yeOG0aw/watch?utm_content=DAGR5Z5hoLw&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener noreferrer">Live Demo Vídeo</a>
 
 ## Autor(@) ##
 
