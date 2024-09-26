@@ -37,7 +37,7 @@ Para isto, é recomendado que baixe ou clone os arquivos deste repostório [Git]
 
 Caso queira rodar este projeto através de um servidor local é recomendado que instale o [NodeJS](https://nodejs.org/en/).
 
-## :checkered_flag: Iniciando ##
+## :checkered_flag: Iniciando a aplicação ##
 
 ```bash
 # ☑️ 1. Clone este projeto para um diretório local ↪️
